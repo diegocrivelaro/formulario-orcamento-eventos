@@ -16,6 +16,7 @@
 ---
 
 # 📖 Índice
+<a href="#-Features">Features</a>
 * [✅ Features](#✅-Features)
 * [🖼 Demonstração](#🖼-Demonstração)
 * [🚀 Como executar o projeto](#🚀-Como-executar-o-projeto)
