@@ -97,5 +97,5 @@ Este projeto está sobe a licença <a href="LICENCE">MIT</a>
 
 ---
 
-## Versões do README
+## 📜 Versões do README
 [Português BR](./README.md)
