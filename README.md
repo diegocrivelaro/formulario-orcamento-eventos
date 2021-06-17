@@ -25,7 +25,7 @@
   * <a href="#-Como-contribuir-para-o-projeto?">💪 Como contribuir para o projeto?</a>
 * <a href="#-Autor">🙋‍♂️ Autor</a>
 * <a href="#-Licença">📝 Licença</a>
-* <a href="#-Versões-do-README">Versões do README</a>
+* <a href="#-Versões-do-README">📜 Versões do README</a>
 
 ---
 ## ✅ Features
