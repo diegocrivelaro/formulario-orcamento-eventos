@@ -35,7 +35,7 @@
 ## 🖼 Demonstração
 
 <p align="center">
-    <img src="assets-README/demonstracao.gif" width="70%" alt="demonstração"/>
+    <img src="assets-README/demonstracao.gif" width="90%" alt="demonstração"/>
 </p>
 
 <p align="center">
