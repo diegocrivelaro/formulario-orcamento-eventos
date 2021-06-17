@@ -1,40 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="CSS/reset.css">
-        <link rel="stylesheet" href="CSS/style.css">
-        <title>Formulário para Orçamento</title>
-        
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/reset.css">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>Formulário para Orçamento</title>
 
-    <body>
-        <form>
-            <h1>Formulário para Orçamento</h1>
+</head>
 
-            <div class="box-name">
-                <h1>Nome:</h1>
-                <input type="text" name="nome" placeholder="Digite seu nome">
-            </div>
+<body>
+    <form>
+        <h1>Formulário para Orçamento</h1>
 
-            <div class="box-email">
-                <h1>E-mail:</h1>
-                <input type="email" name="email" placeholder="exemplo@gmail.com">
-            </div>
+        <div class="box-name">
+            <h1>Nome:</h1>
+            <input type="text" name="nome" placeholder="Digite seu nome">
+        </div>
 
-            <div class="box-telefone">
-                <h1>Telefone:</h1>
-                <input type="tel" name="telefone" placeholder="(DDD) XXXX XXXX">
-            </div>
+        <div class="box-email">
+            <h1>E-mail:</h1>
+            <input type="email" name="email" placeholder="exemplo@gmail.com">
+        </div>
 
-            <div class="box-celular">
-                <h1>Celular:</h1>
-                <input type="tel" name="celular" placeholder="(DDD) 9.XXXX XXXX">
-            </div>
+        <div class="box-telefone">
+            <h1>Telefone:</h1>
+            <input type="tel" name="telefone" placeholder="(DDD) XXXX XXXX">
+        </div>
 
+        <div class="box-celular">
+            <h1>Celular:</h1>
+            <input type="tel" name="celular" placeholder="(DDD) 9.XXXX XXXX">
+        </div>
+
+        <div class="container">
             <div class="box-localevento">
                 <h1>Local do Evento:</h1>
                 <select name="cidades">
@@ -46,26 +47,27 @@
                     <option>Franca</option>
                 </select>
             </div>
-
+            
             <div class="box-dataevento">
                 <h1>Data do Evento:</h1>
                 <input type="date" name="dataevento">
             </div>
+        </div>
 
-            <div class="box-qntconvidados">
-                <h1>Qnt de Convidados:</h1>
-                <input type="number" name="qntconvidados" placeholder="Quantidade de convidados">
-            </div>
+        <div class="box-qntconvidados">
+            <h1>Qnt de Convidados:</h1>
+            <input type="number" name="qntconvidados" placeholder="Quantidade de convidados">
+        </div>
 
-            <div class="box-observacao">
-                <h1>Observação:</h1>
-                <textarea name="observacoes" placeholder="Alguma observação?"></textarea>
-            </div>
+        <div class="box-observacao">
+            <h1>Observação:</h1>
+            <textarea name="observacoes" placeholder="Alguma observação?"></textarea>
+        </div>
 
-            <div class="box-btenviar">
-                <input type="submit">
-            </div>
-        </form>
-    </body>
+        <div class="box-btenviar">
+            <input type="submit">
+        </div>
+    </form>
+</body>
 
 </html>
