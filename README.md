@@ -19,7 +19,6 @@ As seguintes ferramentas foram usadas na construução do projeto:
 
 ### 🙋‍♂️ Autor
 ---
-
 <img src="img/diegocrivelaro.jpg" width="100px">
 <br />
 <sub><b>Diego Crivelaro 👨‍💻</b></sub>
