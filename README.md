@@ -1,10 +1,8 @@
 <!-- README PADRONIZADO DO DIEGO CRIVELARO ❤ -->
 
-<a href="https://diegocrivelaro.github.io/formulario-orcamento-eventos/">
-    <h1 align="center">🚀 Formulário de Orçamento de Eventos</h1>
-    <h4 align="center">✅ Finalizado </h4>
-    <p align="center">🗞 Mini projeto para testar minhas habilidades em <b>HTML5</b> e <b>CSS3</b></p>
-</a>
+<h1 align="center">🚀 Formulário de Orçamento de Eventos</h1>
+<h4 align="center">✅ Finalizado </h4>
+<p align="center">🗞 Mini projeto para testar minhas habilidades em <b>HTML5</b> e <b>CSS3</b></p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegocrivelaro/formulario-orcamento-eventos?color=gree&label=Linguagens%3A&style=flat-square">
