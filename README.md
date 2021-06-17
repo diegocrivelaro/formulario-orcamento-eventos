@@ -13,16 +13,18 @@
   <a href="https://github.com/diegocrivelaro/formulario-orcamento-eventos/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/diegocrivelaro/formulario-orcamento-eventos?label=Forks%3A%20&style=flat-square"></a>
 </p>
 
+---
+
 # 📖 Índice
-* [✅ Features](#✅Features)
-* [🖼 Demonstração](#🖼Demonstração)
-* [🚀 Como executar o projeto](#🚀Comoexecutaroprojeto)
-  * [📑 Pré-requisitos](#📑Pré-requisitos)
-* [⚡ Tecnologias](#⚡Tecnologias)
-* [👨‍💻 Contribuidores](#👨‍💻Contribuidores)
-  * [💪 Como contribuir para o projeto?](#💪Comocontribuirparaoprojeto?)
-* [🙋‍♂️ Autor](#🙋‍♂️Autor)
-* [📝 Licença](#📝Licença)
+* [✅ Features](#Features)
+* [🖼 Demonstração](#Demonstração)
+* [🚀 Como executar o projeto](#Como-executar-o-projeto)
+  * [📑 Pré-requisitos](#Pré-requisitos)
+* [⚡ Tecnologias](#Tecnologias)
+* [👨‍💻 Contribuidores](#Contribuidores)
+  * [💪 Como contribuir para o projeto?](#Comocontribuirparaoprojeto?)
+* [🙋‍♂️ Autor](#Autor)
+* [📝 Licença](#Licença)
 * [Versões do README](#VersõesdoREADME)
 
 ---
@@ -50,7 +52,7 @@ $ git clone https://github.com/diegocrivelaro/formulario-orcamento-eventos.git
 # PRONTO!
 ```
 
-#### 📑 Pré-requisitos
+### 📑 Pré-requisitos
 1. Tenha o Git instalado no Windows.
 ---
 
@@ -72,20 +74,20 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ## 💪 Como contribuir para o projeto?
 1. Faça um <b>fork</b> do projeto
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: Minha feature`
+2. Crie uma nova branch com as suas alterações: `git checkout -b minha-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: minha feature`
 4. Envie as suas alterações: `git push origin minha-feature`
 ---
 
 ## 🙋‍♂️ Autor
 
-<img src="assets/diegocrivelaro.jpg" width="100px" alt="meuperfil">
+<img src="assets-README/diegocrivelaro.jpg" width="100px" alt="meuperfil">
 <a href="https://www.linkedin.com/in/diegocrivelaro/">Diego Crivelaro</a>
 <br>
 <p>
-    <a href="https://www.linkedin.com/in/diegocrivelaro/"><img src="assets/linkedin.png" width="25" alt="Linkedin"></a>
-    <a href="https://github.com/diegocrivelaro"><img src="assets/github.png" width="25" alt="GitHub"></a>
-    <a href="https://www.instagram.com/diego_crivelaro/"><img src="assets/instagram.png" width="25" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/diegocrivelaro/"><img src="assets-README/linkedin.png" width="25" alt="Linkedin"></a>
+    <a href="https://github.com/diegocrivelaro"><img src="assets-README/github.png" width="25" alt="GitHub"></a>
+    <a href="https://www.instagram.com/diego_crivelaro/"><img src="assets-README/instagram.png" width="25" alt="Instagram"></a>
 </p>
 
 ---
