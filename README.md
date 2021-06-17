@@ -16,16 +16,16 @@
 ---
 
 # 📖 Índice
-* [✅ Features](#Features)
-* [🖼 Demonstração](#Demonstração)
-* [🚀 Como executar o projeto](#Como-executar-o-projeto)
-  * [📑 Pré-requisitos](#Pré-requisitos)
-* [⚡ Tecnologias](#Tecnologias)
-* [👨‍💻 Contribuidores](#Contribuidores)
-  * [💪 Como contribuir para o projeto?](#Comocontribuirparaoprojeto?)
-* [🙋‍♂️ Autor](#Autor)
-* [📝 Licença](#Licença)
-* [Versões do README](#VersõesdoREADME)
+* [✅ Features](#✅-Features)
+* [🖼 Demonstração](#🖼-Demonstração)
+* [🚀 Como executar o projeto](#🚀-Como-executar-o-projeto)
+  * [📑 Pré-requisitos](#📑-Pré-requisitos)
+* [⚡ Tecnologias](⚡-Tecnologias)
+* [👨‍💻 Contribuidores](#👨‍💻-Contribuidores)
+  * [💪 Como contribuir para o projeto?](#💪-Como-contribuir-para-o-projeto?)
+* [🙋‍♂️ Autor](🙋‍♂️-Autor)
+* [📝 Licença](📝-Licença)
+* [Versões do README](#Versões-do-README)
 
 ---
 ## ✅ Features
