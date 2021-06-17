@@ -7,7 +7,10 @@
 </a>
 
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegocrivelaro/formulario-orcamento-eventos?color=gree&label=Linguagens%3A&style=flat-square">
   <a href="https://github.com/diegocrivelaro/formulario-orcamento-eventos/blob/main/LICENCE"><img alt="GitHub license" src="https://img.shields.io/github/license/diegocrivelaro/formulario-orcamento-eventos?label=Licen%C3%A7a&style=flat-square"></a>
+  <a href="https://github.com/diegocrivelaro/formulario-orcamento-eventos/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/diegocrivelaro/formulario-orcamento-eventos?label=Estrelas%3A&style=flat-square"></a>
+  <a href="https://github.com/diegocrivelaro/formulario-orcamento-eventos/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/diegocrivelaro/formulario-orcamento-eventos?label=Forks%3A%20&style=flat-square"></a>
 </p>
 
 # 📖 Índice
